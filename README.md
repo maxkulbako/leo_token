@@ -10,3 +10,5 @@ To run this program, run:
 ```bash
 ./run.sh
 ```
+
+Discord Name: maxxkul
